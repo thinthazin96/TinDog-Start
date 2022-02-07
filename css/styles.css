@@ -48,3 +48,32 @@ h1{
     width: 60%;
     transform: rotate(25deg);
 }
+
+/* Features */
+#features{
+    margin: 50px 50px;
+}
+.fas{
+    color: coral;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+.fas:hover{
+    color: lightcoral;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+h3{
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.icon-text{
+    color: royalblue;
+    text-align: center;
+}
